@@ -1,7 +1,4 @@
 /**
- * YouTube Channel: https://youtube.com/@AM_CLUB
- * GitHub Repository: https://github.com/amclubs
- * Telegram Group: https://t.me/AM_CLUBS
  * Personal Blog: https://am.809098.xyz
  */
 
