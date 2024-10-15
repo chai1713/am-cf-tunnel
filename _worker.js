@@ -34,8 +34,8 @@ let dohURL = 'https://sky.rethinkdns.com/1:-Pf_____9_8A_AMAIgE8kMABVDDmKOHTAKg='
 
 // Preferred address API interface
 let ipUrlTxt = [
-	'https://raw.githubusercontent.com/chai1713/youxuanip/refs/heads/main/IPV4youxuan.txt?token=GHSAT0AAAAAACYTRNOUHGMZZFAI7ZVQDFHOZYOB5KA',
 	'https://raw.githubusercontent.com/chai1713/youxuanip/refs/heads/main/yuming-443.txt?token=GHSAT0AAAAAACYTRNOVBZI7GDLPFJSYZ7M4ZYOCCKQ',
+	//'https://raw.githubusercontent.com/chai1713/youxuanip/refs/heads/main/yuming-443.txt?token=GHSAT0AAAAAACYTRNOVBZI7GDLPFJSYZ7M4ZYOCCKQ'
 ];
 let ipUrlCsv = [
 	// 'https://raw.githubusercontent.com/amclubs/am-cf-tunnel/main/ipv4.csv'
