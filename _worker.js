@@ -1,4 +1,7 @@
 /**
+ * YouTube Channel: https://youtube.com/@AM_CLUB
+ * GitHub Repository: https://github.com/amclubs
+ * Telegram Group: https://t.me/AM_CLUBS
  * Personal Blog: https://am.809098.xyz
  */
 
@@ -31,7 +34,7 @@ let dohURL = 'https://sky.rethinkdns.com/1:-Pf_____9_8A_AMAIgE8kMABVDDmKOHTAKg='
 
 // Preferred address API interface
 let ipUrlTxt = [
-	'https://raw.githubusercontent.com/chai1713/youxuanip/refs/heads/main/ipv4ku-tls.txt?token=GHSAT0AAAAAACYTRNOVL3ERNTRZDL2S523YZYOBSKA',
+	'https://raw.githubusercontent.com/amclubs/am-cf-tunnel/main/ipv4.txt',
 	// 'https://raw.githubusercontent.com/amclubs/am-cf-tunnel/main/ipv6.txt'
 ];
 let ipUrlCsv = [
@@ -39,9 +42,9 @@ let ipUrlCsv = [
 ];
 // Preferred addresses with optional TLS subscription
 let ipLocal = [
-	'visa.cn:443#优选域名',
-	'icook.hk#优选域名',
-	'time.is:443#优选域名'
+	'visa.cn:443#youtube.com/@AM_CLUB 订阅频道获取更多教程',
+	'icook.hk#t.me/AM_CLUBS 加入交流群解锁更多优选节点',
+	'time.is:443#github.com/amclubs GitHub仓库查看更多项目'
 ];
 let noTLS = 'false';
 let sl = 5;
