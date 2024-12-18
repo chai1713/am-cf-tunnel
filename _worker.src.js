@@ -44,15 +44,15 @@ let ipUrlCsv = [
 ];
 // Preferred addresses with optional TLS subscription
 let ipLocal = [
-	'visa.cn:443#youtube.com/@AM_CLUB 订阅频道获取更多教程',
-	'icook.hk#t.me/AM_CLUBS 加入交流群解锁更多优选节点',
-	'time.is#github.com/amclubs GitHub仓库查看更多项目'
+	'visa.cn:443#官方优选域名',
+	'icook.hk#官方优选域名',
+	'time.is#官方优选域名'
 ];
 let noTLS = 'false';
 let sl = 5;
 
 let tagName = atob('YW1jbHVicw==');
-let subUpdateTime = 6; // Subscription update time in hours
+let subUpdateTime =  = 6; ; // Subscription update time in hours
 let timestamp = 4102329600000; // Timestamp for the end date (2099-12-31)
 let total = 99 * 1125899906842624; // PB (perhaps referring to bandwidth or total entries)
 let download = Math.floor(Math.random() * 1099511627776);
